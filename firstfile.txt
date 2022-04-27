@@ -1,3 +1,9 @@
 from second
+<<<<<<< HEAD
 fehwsfbhfdbxcbhrd
 gbfhbhsesh
+=======
+igyewflwdfv
+rhrfgh
+tgheeersdfgh
+>>>>>>> second
